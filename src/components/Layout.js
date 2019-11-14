@@ -4,14 +4,7 @@ import Meta from './Meta'
 export default function Layout(props) {
   return (
     <section
-      className={`layout ${
-        props.pathname == "info" &&
-        "info_page"}`
-      }
-      style={{
-        backgroundColor: `${props.bgColor && props.bgColor}`,
-        color: `${props.pathname == "info" && 'white'}`
-      }}
+      className="layout"
     >
     <Meta 
       siteTitle={props.siteTitle} 
@@ -26,9 +19,6 @@ export default function Layout(props) {
           display: flex;
           flex-direction: column;
           min-height: 100vh;
-        }
-        .layout .info_page {
-          color: #ebebeb;
         }
         .content {
           flex-grow: 1;
