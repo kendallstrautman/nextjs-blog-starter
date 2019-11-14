@@ -3,7 +3,11 @@ import BlogList from "../components/BlogList";
 
 const Index = (props) => {
   return (
-    <Layout pathname="/" siteTitle={props.title}>
+    <Layout 
+      pathname="/" 
+      siteTitle={props.title} 
+      siteDescription={props.description}
+    >
       <section>
         <BlogList />
       </section>
@@ -14,8 +18,8 @@ const Index = (props) => {
 export default Index;
 
 Index.getInitialProps = async function() {
-  const content = await import(`../data/config.json`)
+  const configData = await import(`../data/config.json`)
   return {
-    ...content
+    ...configData
   }
 }
