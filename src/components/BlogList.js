@@ -2,7 +2,7 @@ const BlogList = () => {
 
   return (
     <div>
-      <h1>List of all blog posts will go here</h1>
+      <h3>List of all blog posts will go here</h3>
       <style jsx>
         {`
           div {

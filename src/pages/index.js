@@ -15,9 +15,7 @@ export default Index;
 
 Index.getInitialProps = async function() {
   const content = await import(`../data/config.json`)
-
   return {
-    fileRelativePath: `src/data/config.json`,
     ...content
   }
 }
