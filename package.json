@@ -14,7 +14,7 @@
     "deploy": "yarn build && yarn export"
   },
   "dependencies": {
-    "next": "^9.0.2",
+    "next": "^9.3.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-markdown": "^4.1.0",
