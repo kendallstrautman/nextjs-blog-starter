@@ -4,7 +4,7 @@ There are an incredible amount of Javascript frameworks and meta-frameworks to l
 
 **Next.js is incredible in its simplicity and flexibility;** there are less prescriptive guiderails placed on developers in the implementation of an app or site. 
 
-If you'd like to skip ahead and reference 'final' versions of the starter, feel free to checkout the [implementation with TinaCMS](https://github.com/kendallstrautman/brevifolia-next-tinacms)🦙 or basic [implementation with Forestry](https://github.com/kendallstrautman/brevifolia-next-forestry)🌲.
+If you'd like to skip ahead, checkout the ['final' version](https://github.com/kendallstrautman/brevifolia-nextjs) of the starter. Also feel free to reference the [implementation with TinaCMS](https://github.com/kendallstrautman/brevifolia-next-tinacms)🦙 or basic [implementation with Forestry](https://github.com/kendallstrautman/brevifolia-next-forestry)🌲.
 
 ## Clone the starter
 
