@@ -1,14 +1,14 @@
 # Bare-bones Nextjs starter
 
-There are an incredible amount of Javascript frameworks and meta-frameworks to learn. With React, two of the most common metaframeworks of the moment are Next.js, made by Zeit, and Gatsby.
+**[Next.js](https://nextjs.org/) is incredible in its simplicity and flexibility;** there are less prescriptive guide-rails placed on developers in the implementation of an app or site.
 
-**Next.js is incredible in its simplicity and flexibility;** there are less prescriptive guiderails placed on developers in the implementation of an app or site. 
+This repo is a starting point for creating a [simple markdown blog with Next.js](https://dev.to/tinacms/creating-a-markdown-blog-with-next-js-52hk).
 
 If you'd like to skip ahead, checkout the ['final' version](https://github.com/kendallstrautman/brevifolia-nextjs) of the starter. Also feel free to reference the [implementation with TinaCMS](https://github.com/kendallstrautman/brevifolia-next-tinacms)🦙 or basic [implementation with Forestry](https://github.com/kendallstrautman/brevifolia-next-forestry)🌲.
 
 ## Clone the starter
 
-``` javascript
+```javascript
 // clone the repo from your terminal
 $ git clone git@github.com:kendallstrautman/nextjs-blog-starter.git <project name>
 
