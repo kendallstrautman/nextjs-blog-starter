@@ -1,8 +1,6 @@
 # Bare-bones Nextjs starter
 
-**[Next.js](https://nextjs.org/) is incredible in its simplicity and flexibility;** there are less prescriptive guide-rails placed on developers in the implementation of an app or site.
-
-This repo is a starting point for creating a [simple markdown blog with Next.js](https://dev.to/tinacms/creating-a-markdown-blog-with-next-js-52hk).
+**[Next.js](https://nextjs.org/) is incredible in its simplicity and flexibility.** This repo is a starting point for creating a [simple markdown blog with Next.js](https://dev.to/tinacms/creating-a-markdown-blog-with-next-js-52hk).
 
 If you'd like to skip ahead, checkout the ['final' version](https://github.com/kendallstrautman/brevifolia-nextjs) of the starter. Also feel free to reference the [implementation with TinaCMS](https://github.com/kendallstrautman/brevifolia-next-tinacms)🦙 or basic [implementation with Forestry](https://github.com/kendallstrautman/brevifolia-next-forestry)🌲.
 
